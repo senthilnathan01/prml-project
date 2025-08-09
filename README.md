@@ -90,7 +90,7 @@ Spectral Clustering
 
 ![image.png](images/image%209.png)
 
-![image.png](image%2010.png)
+![image.png](images/image%2010.png)
 
 ## PCA and k-Nearest Neighbors Pipeline
 
