@@ -1,5 +1,3 @@
-For full details Visit: https://senthilnathan.notion.site/Pattern-Recognition-and-Machine-Learning-24885836911980d8a7bdc09bfa0de1b8?pvs=74
-
 # Implementation of Probabilistic Classifiers from Scratch
 
 Built and validated three fundamental probabilistic classifiers from scratch to solve multi-class classification problems. This project showcases a deep understanding of Bayesian inference.
